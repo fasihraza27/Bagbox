@@ -1,0 +1,6 @@
+{
+  "name": "Bag & Box KSA",
+  "description": "Leading manufacturer and supplier of fiberglass motorcycle delivery boxes, thermal insulated bags, custom packaging, and rider gear in Saudi Arabia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
